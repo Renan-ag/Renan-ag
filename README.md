@@ -1,6 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Renan</strong>
 
-> Atualmente sou estudante do curso de Sistemas da informação da universidade São josé, tenho como foco ingressar na area como desenvolvedor front-end.
+> Sou graduando em Sistemas de Informação da Universidade São José e tenho como previsão de conclusão o ano de 2022. Já atuei como estagiário entre abril e dezembro de 2021 na empresa Russel Serviços Gerais Ltda. no cargo de desenvolvedor Full-Stack e atualmente me dedico ao ingresso na área de Tecnologia da Informação (TI) como Desenvolvedor Front-End, sendo este o meu maior objetivo no momento. Para além da minha formação, tenho um vasto interesse em novas tecnologias, linguagens de programação atualizadas e modernas e também em sempre aprender algo novo. Acredito que estar a par do que está por vir e ter consciência do incrível mundo que a programação proporciona é fundamental para continuarmos a nos desenvolver como excelentes programadores.
+
 
 ----
 
