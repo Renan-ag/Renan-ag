@@ -23,4 +23,6 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renan-ag&show_icons=true)
+
+----
 ![image](https://www.codewars.com/users/Renan-ag/badges/large)
