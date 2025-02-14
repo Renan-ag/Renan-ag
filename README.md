@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é <strong>Renan</strong>
+## 💜 Olá, meu nome é <strong>Renan Gouveia</strong>
 
-> Olá, eu sou Renan Andrade um graduado em Sistema de informação e atuo atualmente como desenvolvedor web.
+> Com uma trajetória de mais de 3 anos no campo, sou um profissional Full-Stack apaixonado por criar experiências incríveis. Minha bagagem inclui expertise em UI/UX, React, SEO, HTML, CSS, Typescript, JavaScript, PHP, Node.JS, além de habilidades no Figma, SQL e GIT. Trabalhar na interseção da estética e funcionalidade é minha paixão, e estou constantemente buscando maneiras de aprimorar e inovar no mundo do desenvolvimento web. 
 
 
 ----
