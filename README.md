@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Renan Gouveia</strong>
 
-> Com uma trajetória de mais de 3 anos no campo, sou um profissional Full-Stack apaixonado por criar experiências incríveis. Minha bagagem inclui expertise em UI/UX, React, SEO, HTML, CSS, Typescript, JavaScript, PHP, Node.JS, além de habilidades no Figma, SQL e GIT. Trabalhar na interseção da estética e funcionalidade é minha paixão, e estou constantemente buscando maneiras de aprimorar e inovar no mundo do desenvolvimento web. 
+> Desenvolvedor Full-Stack com foco em React, TypeScript e Node.js, e experiência complementar em Laravel e ASP.NET. Atuei no desenvolvimento de sistemas ERP, criação de interfaces modernas no Figma e integração com APIs como Google Maps e Pagar.me, entre outras. Também desenvolvi telas interativas, incluindo um jogo de cartas produzido para a empresa Esquenta Jogos. Possuo sólidos conhecimentos em UI/UX, SEO, metodologias ágeis e boas práticas de desenvolvimento, como SOLID, DRY e Design Patterns. Meu foco está em performance, código limpo e soluções centradas no usuário.
 
 
 ----
