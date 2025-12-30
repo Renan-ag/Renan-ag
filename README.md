@@ -22,7 +22,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renan-ag&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-ag&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
 
 ----
 ![image](https://www.codewars.com/users/Renan-ag/badges/large)
