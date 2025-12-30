@@ -21,7 +21,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vitest/vitest.png" alt="Vitest"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/fastify/fastify.png" alt="Fastify"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
